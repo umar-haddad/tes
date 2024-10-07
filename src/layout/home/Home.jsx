@@ -16,7 +16,7 @@ function Home() {
           <h2>Sayyid Umar Hasani</h2>
           <p>hello my name is sayyid umar</p>
         </div>
-        <div className="hero-icons ">
+        {/* <div className="hero-icons ">
           <a
             href="https://www.instagram.com/sayyid_umar_24/"
             target="_blank"
@@ -53,7 +53,7 @@ function Home() {
               <FontAwesomeIcon icon={faGithub} />
             </span>
           </a>
-        </div>
+        </div> */}
       </div>
     </section>
   );
